@@ -4,10 +4,8 @@
   "sortBy": "latest",
   "articles": [
     {
-      "uBanner": "ca-app-pub-6200111783861066/4688557431",
-      "uInterstitial": "ca-app-pub-6200111783861066/6165290632",
-      "description": "ad",
-      "url": "ad"
+      "uBa": "ca-app-pub-6200111783861066/4688557431",
+      "uIn": "ca-app-pub-6200111783861066/6165290632"
     }
   ]
 }
