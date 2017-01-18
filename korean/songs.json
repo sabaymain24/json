@@ -5,6 +5,22 @@
   "articles": [
     {
       "author": "9p",
+      "title": "PSY Music Videos",
+      "description": "Original Music Videos by YG Entertainment's PSY",
+      "url": "https://www.youtube.com/playlist?list=PLEC422D53B7588DC7",
+      "urlToImage": "https://4.bp.blogspot.com/-uNwzN6DeUnM/WH9bj_NL5HI/AAAAAAAAAIY/FpVTcDk1e-w80o7QXEAaRRGU9E929MP5QCLcB/s1600/PSY01.jpg",
+      "publishedAt": "30:17"
+    },
+    {
+      "author": "9p",
+      "title": "YG Music Videos",
+      "description": "Original Music Videos by YG Entertainment",
+      "url": "https://www.youtube.com/playlist?list=PLu8-5UhSJGkJRAlpnB8xlw7Mf78yFGHYG",
+      "urlToImage": "http://www.yam-mag.com/wp-content/uploads/2011/06/fx-hot-summer-korean-mv-520x245.jpg",
+      "publishedAt": "30:17"
+    },
+    {
+      "author": "9p",
       "title": "Korean_ [MV] RAIN(비)",
       "description": "Korean_Songs",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTYk-ZpW3M1_BSZHubaUGaKa",
