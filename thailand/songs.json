@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "source": "piseth",
+  "source": "Thai Songs",
   "sortBy": "latest",
   "articles": [
     {
@@ -25,6 +25,14 @@
       "description": "Thai Yes! MUSIC MV",
       "url": "https://www.youtube.com/playlist?list=PLZiLFNN60MUqJZS0cD8GapQ7nvZ4-Hoiv",
       "urlToImage": "https://3.bp.blogspot.com/-XEsNxcgp4XI/WIBN3j2zk5I/AAAAAAAAAJw/7SLIo2Xdwugp6cDFvYBr1dOK3rs5mNNsQCLcB/s1600/03.jpg",
+      "publishedAt": "2017-01-19"
+    },
+    {
+      "author": "Audio",
+      "title": "Yes! Music | Official Lyrics Video",
+      "description": "Thai Yes! MUSIC Lyric Audio",
+      "url": "https://www.youtube.com/playlist?list=PLZiLFNN60MUqhWlytc8yFkHJoljrIVUXo",
+      "urlToImage": "https://2.bp.blogspot.com/-EX1nHADXQDw/WIBPyMcFkdI/AAAAAAAAAJ8/hJba3tn7nKUxCr80BeEnn5niGQg-UEC8gCLcB/s1600/04.jpg",
       "publishedAt": "2017-01-19"
     }
   ]
