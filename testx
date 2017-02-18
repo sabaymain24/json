@@ -1,8 +1,15 @@
 {
-  "movies": [
+  "status": "ok",
+  "source": "korean funny",
+  "sortBy": "latest",
+  "articles": [
     {
-      "movie": "Avengers",
-      "year": 2012
-    }
+    "author": " English .",
+    "title": "Maya the Bee - The new series!",
+    "description": "Cartoon",
+    "url": "https://www.youtube.com/playlist?list=PLwQyoTjGiCPuzZ5sstCTnBpR7CCclRNJL",
+    "urlToImage": "https://1.bp.blogspot.com/-8LyYGm2zw68/WJv8X5bwhlI/AAAAAAAAATU/jGJFpe6hnEQQy7swkHyTnxSOm5v8KcY9QCLcB/s1600/01.jpg",
+    "publishedAt": "2017-02-09"
+  }
   ]
 }
