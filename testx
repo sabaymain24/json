@@ -1,12 +1,8 @@
 {
-  "articles": [
+  "movies": [
     {
-      "status": " Korea ",
-      "title": "Confession 2015-khmer",
-      "description": "Korea Movie",
-      "url": "http://komsan.tv/khz/movie/20207/",
-      "urlImage": "https://2.bp.blogspot.com/-XV9-TBytwKU/WKZuu-f7BjI/AAAAAAAAAW0/77J8Q8RtPUMTuH-NNXJUxVLCtJjj4Wl8wCLcB/s320/M06.png",
-      "date": "2017-02-17"
+      "movie": "Avengers",
+      "year": 2012
     }
   ]
 }
