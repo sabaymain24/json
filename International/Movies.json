@@ -4,7 +4,47 @@
   "sortBy": "latest",
   "articles": [
       {
-    "author": " World ",
+    "author": " English ",
+    "title": "In Dubious Battle 2016",
+    "description": "Year 2016",
+    "url": "http://komsan.tv/khz/movie/26031/",
+    "urlToImage": "https://3.bp.blogspot.com/-mOsFIB7HDOE/WMDyLYK5NxI/AAAAAAAAAfw/xDJo8eeGkuQ6hn4KAHkyamwB5GKqvFvoACLcB/s1600/31.jpg",
+    "publishedAt": "2017-03-09"
+  },
+  {
+    "author": " English ",
+    "title": "Collateral Beauty 2016",
+    "description": "Year 2016",
+    "url": "http://komsan.tv/khz/movie/26269/",
+    "urlToImage": "https://1.bp.blogspot.com/-uuTkyIBYLvQ/WMDyLePWoCI/AAAAAAAAAfo/teK300w6keQKkSfqKaUrATaLfQZhB9ZOACLcB/s1600/32.jpg",
+    "publishedAt": "2017-03-09"
+  },
+  {
+    "author": " English ",
+    "title": "The Girl With All The Gifts 2016",
+    "description": "Year 2016",
+    "url": "http://komsan.tv/khz/movie/24661/",
+    "urlToImage": "https://3.bp.blogspot.com/-PSnC2-I4Nw8/WMDyLaPf8HI/AAAAAAAAAfs/Wjbpn_W1xzYzrxnfJoEM2hW2ZwOtUCiQACLcB/s1600/33.jpg",
+    "publishedAt": "2017-03-09"
+  },
+  {
+    "author": " English ",
+    "title": "The Disappointments Room 2016",
+    "description": "Year 2016",
+    "url": "http://komsan.tv/khz/movie/24959/",
+    "urlToImage": "https://2.bp.blogspot.com/-zf0amfRhsCA/WMDyL2XiF7I/AAAAAAAAAf0/5_YXHsN6zfge67WyP4CN2uQAVUcLvot_wCLcB/s1600/34.jpg",
+    "publishedAt": "2017-03-09"
+  },
+  {
+    "author": " English ",
+    "title": "Stray Bullets 2016",
+    "description": "Year 2016",
+    "url": "http://komsan.tv/khz/movie/25815/",
+    "urlToImage": "https://3.bp.blogspot.com/-0j1uRkBt4GM/WMDyLyuOMUI/AAAAAAAAAf4/oUc6wbXl4lUYp-I0E7RAStiGxFgfNqNjwCLcB/s1600/35.jpg",
+    "publishedAt": "2017-03-09"
+  },
+      {
+    "author": " English ",
     "title": "Everest 2015",
     "description": "year 2015",
     "url": "http://komsan.tv/z/movie/12178/",
@@ -12,7 +52,7 @@
     "publishedAt": "2017-03-04"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "In the Heart of the Sea 2015",
     "description": "year 2015",
     "url": "http://komsan.tv/z/movie/13077/",
@@ -20,7 +60,7 @@
     "publishedAt": "2017-03-04"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Dragon Wars 2007",
     "description": "year 2007",
     "url": "http://komsan.tv/z/movie/233/",
@@ -28,7 +68,7 @@
     "publishedAt": "2017-03-04"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "August Eighth 2012",
     "description": "year 2012",
     "url": "http://komsan.tv/z/movie/10066/",
@@ -36,7 +76,7 @@
     "publishedAt": "2017-03-04"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Battleship 2012",
     "description": "year 2012",
     "url": "http://komsan.tv/z/movie/2794/",
@@ -44,7 +84,7 @@
     "publishedAt": "2017-03-04"
   },
       {
-    "author": " World ",
+    "author": " English ",
     "title": "Miss Peregrines Home For Peculiar Children 2016",
     "description": "year 2016",
     "url": "http://komsan.tv/khz/movie/22537/",
@@ -52,7 +92,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Minuscule Valley of the Lost Ants 2013",
     "description": "year 2013",
     "url": "http://komsan.tv/khz/movie/6821/",
@@ -60,7 +100,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Alvin And The Chipmunks The Road Chip 2015",
     "description": "year 2015",
     "url": "http://komsan.tv/khz/movie/14295/",
@@ -68,7 +108,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Mars Needs Moms 2011",
     "description": "year 2011",
     "url": "http://komsan.tv/khz/movie/8653/",
@@ -76,7 +116,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Journey 2 The Mysterious Island 2012",
     "description": "year 2012",
     "url": "http://komsan.tv/khz/movie/8468/",
@@ -92,7 +132,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Petes Dragon 2016",
     "description": "year 2016",
     "url": "http://komsan.tv/khz/movie/22595/",
@@ -100,7 +140,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Bad Romance 2013",
     "description": "year 2013",
     "url": "http://komsan.tv/khz/movie/25813/",
@@ -108,7 +148,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "REC 4 Apocalypse 2014",
     "description": "year 2014",
     "url": "http://komsan.tv/khz/movie/10944/",
@@ -116,7 +156,7 @@
     "publishedAt": "2017-03-03"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "American Fable 2016",
     "description": "year 2016",
     "url": "http://komsan.tv/khz/movie/25948/",
@@ -124,7 +164,7 @@
     "publishedAt": "2017-03-03"
   },
       {
-    "author": " World ",
+    "author": " English ",
     "title": "Avatar 2009",
     "description": "year 2009 ",
     "url": "http://komsan.tv/khz/movie/6237/",
@@ -132,7 +172,7 @@
     "publishedAt": "2017-02-25"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "The Wolverine 2013",
     "description": "year 2013",
     "url": "http://komsan.tv/khz/movie/5914/",
@@ -140,7 +180,7 @@
     "publishedAt": "2017-02-25"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Nazis at the Center of the Earth 2012",
     "description": "year 2012",
     "url": "http://komsan.tv/khz/movie/2977/",
@@ -148,7 +188,7 @@
     "publishedAt": "2017-02-25"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "I Robot 2004",
     "description": "year 2004",
     "url": "http://komsan.tv/khz/movie/3587/",
@@ -156,7 +196,7 @@
     "publishedAt": "2017-02-25"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "The Rig 2010",
     "description": "year 2010",
     "url": "http://komsan.tv/khz/movie/104/",
@@ -164,7 +204,7 @@
     "publishedAt": "2017-02-25"
   },
       {
-    "author": " World ",
+    "author": " English ",
     "title": "Ex machina 2015",
     "description": "ល្បិចស្នេហ៍មនុស្យយន្ដ ២០១៥",
     "url": "http://komsan.tv/khz/movie/9358/",
@@ -172,7 +212,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Allies 2016",
     "description": "Year 2016",
     "url": "http://komsan.tv/khz/movie/25683/",
@@ -180,7 +220,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Hitman 2012",
     "description": "Year 2012",
     "url": "http://komsan.tv/khz/movie/15032/",
@@ -188,7 +228,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Red Tails 2012",
     "description": "Year 2012",
     "url": "http://komsan.tv/khz/movie/15774/",
@@ -196,7 +236,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "The Magnificent Seven 2016",
     "description": "Year 2016",
     "url": "http://komsan.tv/khz/movie/24229/",
@@ -204,7 +244,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Green Lantern 2011",
     "description": "Year 201",
     "url": "http://komsan.tv/khz/movie/1103/",
@@ -212,7 +252,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Star Trek Renegades 2015",
     "description": "Year 201",
     "url": "http://komsan.tv/khz/movie/12656/",
@@ -220,7 +260,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "robot overlords 2014",
     "description": "មនុស្សយន្តគ្រប់គ្រងផែនដី ២០១៤",
     "url": "http://komsan.tv/khz/movie/10672/",
@@ -228,7 +268,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "Captain America The Winter Soldier 2014",
     "description": "Year 201",
     "url": "http://komsan.tv/khz/movie/7406/",
@@ -236,7 +276,7 @@
     "publishedAt": "2017-02-22"
   },
   {
-    "author": " World ",
+    "author": " English ",
     "title": "The Core 2003",
     "description": "Year 201",
     "url": "http://komsan.tv/khz/movie/11858/",
@@ -372,7 +412,7 @@
   "publishedAt": "2017-01-26"
 },
     {
-      "author": "SM",
+      "author": " ភាសាខ្មែរ ",
       "title": "Sabay Main Original Songs",
       "description": "សប្បាយមែន ជ្រឿសរើសសុទ្ធតែ បទចម្រៀងមិនចំឡងពីគេ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTa6lM2RC2kKib8fIpz040M4",
@@ -380,7 +420,7 @@
       "publishedAt": "2017-01-18"
     },
     {
-      "author": "MV",
+      "author": " ភាសាខ្មែរ ",
       "title": "Pitu Heng (Official Full MV)",
       "description": "ហេង ពិទូ - សូមចូលរួមគាំទ្របទចម្រៀងខ្មែរ ដែលមិនចំឡងពីគេ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTbBnU2EQVu8g4aiA3aHnNPH",
@@ -388,7 +428,7 @@
       "publishedAt": "2017-01-18"
     },
     {
-      "author": "CH",
+      "author": " ភាសាខ្មែរ ",
       "title": "Pitu Heng (Official Channel)",
       "description": "ហេង ពិទូ - សូមចូលរួមគាំទ្របទចម្រៀងខ្មែរ ដែលមិនចំឡងពីគេ",
       "url": "https://www.youtube.com/channel/UCTjAygFmUTpADi9cNKayFgw/videos",
@@ -396,7 +436,7 @@
       "publishedAt": "2017-01-18"
     },
     {
-      "author": "Album",
+      "author": " ភាសាខ្មែរ ",
       "title": "Kmeng Khmer Album",
       "description": "ក្មេងខ្មែរ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTY0afxL08VUaiEHjPpHkSi8",
@@ -404,7 +444,7 @@
       "publishedAt": "2017-01-18"
     },
     {
-      "author": "All",
+      "author": " ភាសាខ្មែរ ",
       "title": "Rasmey Hang Meas",
       "description": "រស្មីហង្សមាស",
       "url": "https://www.youtube.com/user/HangMeasVideo/videos",
@@ -412,7 +452,7 @@
       "publishedAt": "2017-01-18"
     },
     {
-      "author": "82p",
+      "author": " ភាសាខ្មែរ ",
       "title": "OFFICIAL MUSIC VIDEO (FULL MV)",
       "description": "Rasmey Hang Meas full MV",
       "url": "https://www.youtube.com/playlist?list=PLbTPHzy-eP7ADslhdCmTQlM7X7j18kQ49",
@@ -420,7 +460,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "88p",
+      "author": " ភាសាខ្មែរ ",
       "title": "Rasmey Hang Meas OFFICIAL TEASER",
       "description": "Music teaser",
       "url": "https://www.youtube.com/playlist?list=PLbTPHzy-eP7CGPLb6GRGDfWdE-g-zcI97",
@@ -428,7 +468,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "56p",
+      "author": " ភាសាខ្មែរ ",
       "title": "Rasmey Hang Meas MV TEASER",
       "description": "MV TEASER",
       "url": "https://www.youtube.com/playlist?list=PLbTPHzy-eP7BtLIK9W8P_uiaR_ZoScWck",
@@ -436,7 +476,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "11p",
+      "author": " ភាសាខ្មែរ ",
       "title": "Rasmey Hang Meas OFFICIAL FULL AUDIO",
       "description": "Full Audio",
       "url": "https://www.youtube.com/playlist?list=PLbTPHzy-eP7DhHoBEEmOALxjta0fIyXSv",
@@ -444,7 +484,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "75p",
+      "author": " ភាសាខ្មែរ ",
       "title": "RHM Mini CD Album Teaser",
       "description": "Audio",
       "url": "https://www.youtube.com/playlist?list=PLbTPHzy-eP7DkyiZNf-_UqHDd4hrsxth0",
@@ -452,7 +492,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "11p",
+      "author": " ភាសាខ្មែរ ",
       "title": "RHM MV for New year",
       "description": "Rasmey Hang Meas Full MV For New year.",
       "url": "https://www.youtube.com/playlist?list=PLbTPHzy-eP7CveN1sldzdXUvtuQ6Jm73a",
@@ -460,7 +500,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "khmer",
+      "author": " ភាសាខ្មែរ ",
       "title": "រឿង ធនញ្ជ័យ",
       "description": "រឿងព្រេងបុរាណ",
       "url": "https://www.youtube.com/watch?v=hXKav6XkaWQ",
@@ -468,7 +508,7 @@
       "publishedAt": "2017-01-19"
     },
     {
-      "author": "khmer",
+      "author": " ភាសាខ្មែរ ",
       "title": "រឿង ចៅស្រទបចេក",
       "description": "រឿងព្រេងបុរាណ",
       "url": "https://www.youtube.com/watch?v=Jy6GWpmO7aY",
@@ -476,7 +516,7 @@
       "publishedAt": "2017-01-19"
     },
     {
-      "author": "khmer",
+      "author": " ភាសាខ្មែរ ",
       "title": "រឿង ក្រឡអីហ្នឹង",
       "description": "ពី LD Picture",
       "url": "https://www.youtube.com/watch?v=hF9WYuwg9f8",
@@ -484,7 +524,7 @@
       "publishedAt": "2017-01-19"
     },
     {
-      "author": "khmer",
+      "author": " ភាសាខ្មែរ ",
       "title": "រឿង ខ្មោចអាសង្ហារ",
       "description": "រឿងខ្មែរ",
       "url": "https://www.youtube.com/watch?v=UZfmh0fltLU",
@@ -492,7 +532,7 @@
       "publishedAt": "2017-01-19"
     },
     {
-      "author": "15",
+      "author": " ភាសាខ្មែរ ",
       "title": "កំប្លែង នាយកុយ ចាស់ៗ",
       "description": "កំប្លែងចាស់ៗ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTaQTWyIrxmqClhcXeLgjMRX",
@@ -500,7 +540,7 @@
       "publishedAt": "17-01-18"
     },
     {
-      "author": "413",
+      "author": " ភាសាខ្មែរ ",
       "title": "ក្រុមកំប្លែង ពែកមី Pakme funny group",
       "description": "CTN Funny. ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTZ9FGNhcB7JV83aG9FWAc9q",
@@ -508,7 +548,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "2",
+      "author": " ភាសាខ្មែរ ",
       "title": "រឿង ពាលស៊ីពាល",
       "description": "សម្លែងដោយក្រុមកំប្លែងនាយកុយ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTYJ1OZWNnL9EQ6GUEZyw2Bg",
@@ -516,7 +556,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "30:17",
+      "author": " ភាសាខ្មែរ ",
       "title": "ក្រុមកំប្លែង ក្មេង",
       "description": "ក្មេងៗ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTb7WpjOyREPQy5KcddETT_i",
@@ -524,7 +564,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង ភក្តីស្នេហ៍ទ្វេភព",
       "description": "រឿងភាគខ្មែរ_ភក្តីស្នេហ៍ទ្វេភព PNN TV",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45j98l-XpaqUQNG3ClIXPKa_",
@@ -532,7 +572,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង សន្យាជាតិមុន",
       "description": "រឿងភាគខ្មែរ_សន្យាជាតិមុន_Bayon TV",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45j5ZA4bEfjVuyFRComTEGO8",
@@ -540,7 +580,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង ចៅប្រសារក្លែងក្លាយ",
       "description": "រឿងភាគខ្មែរ_ចៅប្រសារក្លែងក្លាយ_TV5",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45j5mFf1Y19sZOMWACbdrYpY",
@@ -548,7 +588,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង វរសេនីយ៍កំពូលស្នេហ៍",
       "description": "រឿងភាគខ្មែរ វរសេនីយ៍កំពូលស្នេហ៍",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45iJlRSD3Q5MFqYugBCTxshW",
@@ -556,7 +596,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង ដីបំណះថ្មី",
       "description": "រឿងភាគខ្មែរ_ដីបំណះថ្មី MYTV",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45jTOymq-f8b-7CtWlBJmosc",
@@ -564,7 +604,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង លំអៀងចិត្ត",
       "description": "រឿងភាគខ្មែរ_លំអៀងចិត្ត Bayon TV",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45i0C3KI9ulr_VPS4Cf41Xk9",
@@ -572,7 +612,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង កែវភ្នែក",
       "description": "រឿងភាគខ្មែរ_កែវភ្នែក PNN TV",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45htUhUylS1-T8cmJaigsQdC",
@@ -580,7 +620,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": " khmer ",
+      "author": "  ភាសាខ្មែរ  ",
       "title": "រឿង កូនក្រមុំលោកមេឃុំ",
       "description": "រឿងភាគខ្មែរ កូនក្រមុំលោកមេឃុំ TV5",
       "url": "https://www.youtube.com/playlist?list=PLJN4WTr7L45gYHyZfmR5MM1mPVkO6CCb6",
@@ -588,7 +628,7 @@
       "publishedAt": "2017-01-22"
     },
     {
-      "author": "15",
+      "author": " ភាសាខ្មែរ ",
       "title": "កំប្លែង នាយកុយ ចាស់ៗ",
       "description": "កំប្លែងចាស់ៗ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTaQTWyIrxmqClhcXeLgjMRX",
@@ -596,7 +636,7 @@
       "publishedAt": "17-01-18"
     },
     {
-      "author": "413",
+      "author": " ភាសាខ្មែរ ",
       "title": "ក្រុមកំប្លែង ពែកមី Pakme funny group",
       "description": "CTN Funny. ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTZ9FGNhcB7JV83aG9FWAc9q",
@@ -604,7 +644,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "2",
+      "author": " ភាសាខ្មែរ ",
       "title": "រឿង ពាលស៊ីពាល",
       "description": "សម្លែងដោយក្រុមកំប្លែងនាយកុយ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTYJ1OZWNnL9EQ6GUEZyw2Bg",
@@ -612,7 +652,7 @@
       "publishedAt": "2017-01-03"
     },
     {
-      "author": "30:17",
+      "author": " ភាសាខ្មែរ ",
       "title": "ក្រុមកំប្លែង ក្មេង",
       "description": "ក្មេងៗ",
       "url": "https://www.youtube.com/playlist?list=PL__-mRhNjkTb7WpjOyREPQy5KcddETT_i",
